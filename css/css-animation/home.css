@@ -1,0 +1,49 @@
+/* Geral Home */
+.anime-tech {
+    opacity: 0;
+}
+
+.anime-init {
+    opacity: 1;
+    transition: 3s;
+}
+
+.depoimento-conteudo.anime-init,
+.seguros-item.anime-init {
+    transition: 6s;
+}
+
+/*especificos*/
+
+/*Galeria Fotos*/
+
+/*photo 1*/
+.foto-animation1 {
+    opacity: 0;
+}
+
+.anime-photo {
+    opacity: 1;
+    transition: 2s;
+}
+
+/*photo 2*/
+.foto-animation2 {
+    opacity: 0;
+}
+
+.foto-animation2.anime-photo {
+    opacity: 1;
+    transition: 4s;
+}
+
+/*photo 3 */
+
+.foto-animation3 {
+    opacity: 0;
+}
+
+.foto-animation3.anime-photo {
+    opacity: 1;
+    transition: 5s;
+}
