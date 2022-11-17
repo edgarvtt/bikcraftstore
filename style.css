@@ -11,6 +11,10 @@
 @import url(./css/home/tecnologia.css);
 @import url(./css/home/parceiros.css);
 @import url(./css/home/depoimento.css);
-/* bicicletas */
 
-@import url(./css/bicicletas/bicicletas-lista.css)
+/* bicicletas */
+@import url(./css/bicicletas/bicicletas-lista.css);
+
+/* seguros */
+
+@import url(./css/seguros/seguros.css)

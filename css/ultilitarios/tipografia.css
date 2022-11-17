@@ -23,3 +23,32 @@
     line-height: 28px;
 
 }
+
+.texto-grande-bold {
+
+    font-size: 50px;
+    line-height: 3.3rem;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-style: bold;
+
+}
+
+.texto-medio-bold {
+
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 28px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: bold;
+
+}
+
+
+.texto-pequeno-bold {
+
+    font-size: 20px;
+    line-height: 28px;
+    font-style: bold;
+}
