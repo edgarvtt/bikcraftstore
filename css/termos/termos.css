@@ -1,0 +1,21 @@
+.termos {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.termos h3 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.termos p {
+    margin-bottom: 24px;
+}
+
+.termos.contanier {
+
+    display: grid;
+    justify-content: center;
+}
+
+@media (max-width:800px) {}
