@@ -86,11 +86,19 @@
 @media (max-width: 800px) {
 
     .bicicletas-lista {
+
+        padding-top: 20px;
         padding-bottom: 20px;
+
     }
 
     .decorative-bicicleta-lista {
         display: none;
+    }
+
+    .escolha_a_sua {
+
+        margin-left: -82px;
     }
 
 }
