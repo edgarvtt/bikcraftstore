@@ -1,6 +1,8 @@
 # bikcraft store
 projeto do curso html &amp; css com algumas modificações pessoais como a de adicionar Jquery dentro do Projeto (ainda que esteja no curso mais básico de Jquery)
 
+https://edgarvtt.github.io/bikcraftstore/
+
 ### em desenvolvimento 
 
 * parte responsiva
